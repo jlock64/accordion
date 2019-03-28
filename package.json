@@ -1,0 +1,22 @@
+{
+  "name": "accordion",
+  "version": "1.0.0",
+  "description": "Simple accordion script in VanillaJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlock64/accordion.git"
+  },
+  "author": "Justin Lock",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlock64/accordion/issues"
+  },
+  "homepage": "https://github.com/jlock64/accordion#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
